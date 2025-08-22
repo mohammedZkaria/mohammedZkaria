@@ -31,7 +31,7 @@
 ## 🛠️ Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cpp" alt="skill icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cpp,nodejs,nosql,mongodb,angular,ts,express,postman,figma" alt="skill icons" />
 </p>
 
 ---
@@ -75,4 +75,18 @@
 
 <p align="center">
   <b>“Code is like humor. When you have to explain it, it’s bad.”</b>
+</p>
+
+---
+
+## 🎮 Play a Game or Watch Something Cool
+
+<p align="center">
+  <a href="https://elgoog.im/t-rex/">
+    <img src="https://img.shields.io/badge/Play-T_Rex_Game-blue?style=for-the-badge&logo=google-chrome" alt="Play Game" />
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/watch?v=HluANRwPyNo" target="_blank">
+    <img src="https://img.shields.io/badge/Watch-Funny_Video-red?style=for-the-badge&logo=youtube" alt="Watch Video" />
+  </a>
 </p>
