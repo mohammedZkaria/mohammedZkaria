@@ -1,37 +1,26 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36"/>
-  Hello, World! I'm Mohamed Zakaria Abdelghafar
+  Hey there! I'm Mohamed Zakaria
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36"/>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=800&color=00C6FF&center=true&vCenter=true&width=750&lines=Front-End+Developer+%7C+Future+Full-Stack;Passionate+About+Technology+%26+Design;Always+Learning+Something+New;Let's+Build+Innovative+Projects+Together" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=800&color=FF6EC7&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%F0%9F%92%BB;Building+Modern+Web+Apps+%F0%9F%9A%80;Passionate+About+Tech+%26+Innovation;Always+Learning+%26+Improving" alt="Typing Animation" />
 </p>
 
 ---
 
 ## 🚀 About Me
-🎯 I am a **Front-End Developer in progress** with a passion for **creating modern and interactive web applications**.  
-💡 I enjoy **problem-solving**, learning **new technologies**, and turning ideas into **real products**.  
-🔥 My current focus is on **JavaScript frameworks** and **Back-End fundamentals** to become a **Full-Stack Developer**.  
+🌟 I'm a **Full-Stack Developer** passionate about building **modern, scalable web applications** using the latest technologies.  
+💻 I love combining **clean code** with **beautiful design**, and I'm constantly learning new skills to stay ahead.  
+🎯 My mission: **Transform ideas into real-world digital products**.  
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack (All in One!)
 
-### 🌐 Front-End
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,angular" height="50" alt="frontend skills"/>
-</p>
-
-### ⚙️ Back-End
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="50" alt="backend skills"/>
-</p>
-
-### 🛠 Tools & Design
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postman,figma,git,github,vscode" height="50" alt="tools"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,angular,nodejs,express,mongodb,nosql,git,github,postman,figma,vscode" height="65" alt="skills"/>
 </p>
 
 ---
@@ -48,7 +37,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌍 Connect With Me
 <p align="center">
   <a href="mailto:moddm766@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/mohamed-zakaria-96715724a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
