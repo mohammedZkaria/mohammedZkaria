@@ -1,61 +1,106 @@
-<h1 align="center">
-  👋 Hi, I'm <span style="color:#FF6EC7;">Mohamed Zakaria</span> | <span style="color:#00E5FF;">Full-Stack Developer</span>
-</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Mohamed Zakaria</title>
+  <script src="https://cdn.tailwindcss.com"></script>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=800&color=FF6EC7&center=true&vCenter=true&width=850&lines=Building+Modern+Web+Applications;Learning+%26+Improving+Every+Day;Let's+Create+Something+Awesome!" alt="Typing Animation" />
-</p>
+  <style>
+    html {
+      scroll-behavior: smooth;
+    }
+  </style>
+</head>
 
----
+<body class="bg-[#0b0f19] text-gray-200 font-sans">
 
-## 🚀 About Me  
-💻 **Full-Stack Developer** with a strong passion for creating dynamic and user-friendly web applications.  
-🌱 Currently improving my skills in **Node.js, Angular, and TypeScript**.  
-✨ I believe in writing **clean, efficient, and scalable code**.  
-🔥 Always curious, always learning!  
+  <!-- Header -->
+  <section class="py-16 text-center">
+    <h1 class="text-4xl md:text-5xl font-bold tracking-wide">
+      Hi, I'm
+      <span class="bg-gradient-to-r from-pink-400 to-cyan-400 bg-clip-text text-transparent">
+        Mohamed Zakaria
+      </span>
+    </h1>
 
----
+    <p class="mt-4 text-xl text-cyan-300/80">
+      Full-Stack Developer
+    </p>
 
-## 🛠️ My Tech Stack  
-<p align="center" style="display:flex; justify-content:center; gap:25px; flex-wrap:wrap;">
-  <img src="https://skillicons.dev/icons?i=html" height="80"/>
-  <img src="https://skillicons.dev/icons?i=css" height="80"/>
-  <img src="https://skillicons.dev/icons?i=javascript" height="80"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="80"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="80"/>
-  <img src="https://skillicons.dev/icons?i=express" height="80"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="80"/>
-  <img src="https://skillicons.dev/icons?i=angular" height="80"/>
-  <img src="https://skillicons.dev/icons?i=typescript" height="80"/>
-  <img src="https://skillicons.dev/icons?i=postman" height="80"/>
-  <img src="https://skillicons.dev/icons?i=figma" height="80"/>
-  <img src="https://skillicons.dev/icons?i=cpp" height="80"/>
-</p>
+    <div class="mt-8 flex justify-center">
+      <img
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Apps;Learning+Every+Day;Clean+Code+Matters"
+        alt="typing"
+      />
+    </div>
+  </section>
 
----
+  <!-- HR -->
+  <div class="flex justify-center my-14">
+    <div class="h-[2px] w-2/3 bg-gradient-to-r from-transparent via-pink-400/60 to-transparent blur-[1px]"></div>
+  </div>
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohawed442&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohawed442&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
+  <!-- About -->
+  <section class="max-w-4xl mx-auto px-6 text-center">
+    <h2 class="text-3xl font-semibold mb-6 text-pink-300">
+      About Me
+    </h2>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohawed442&theme=react-dark" width="95%"/>
-</p>
+    <p class="text-lg leading-relaxed text-gray-300">
+      Full-Stack Developer passionate about building modern, scalable,
+      and user-friendly web applications.
+      <br /><br />
+      Currently improving my skills in
+      <span class="text-cyan-300">Node.js, Angular, and TypeScript</span>.
+      <br />
+      I focus on clean architecture, smooth UX, and maintainable code.
+    </p>
+  </section>
 
----
+  <!-- HR -->
+  <div class="flex justify-center my-16">
+    <div class="h-[2px] w-1/2 bg-gradient-to-r from-transparent via-cyan-400/50 to-transparent"></div>
+  </div>
 
-## 🌍 Connect With Me  
-<p align="center">
-  <a href="mailto:moddm766@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/mohamed-zakaria-96715724a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.facebook.com/mody.fanta/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-</p>
+  <!-- Tech Stack -->
+  <section class="max-w-5xl mx-auto px-6">
+    <h2 class="text-3xl font-semibold text-center text-pink-300 mb-10">
+      Tech Stack
+    </h2>
 
----
+    <div class="flex flex-wrap justify-center gap-8">
+      <img class="h-16 hover:scale-110 transition duration-500 ease-out" src="https://skillicons.dev/icons?i=html" />
+      <img class="h-16 hover:scale-110 transition duration-500 ease-out" src="https://skillicons.dev/icons?i=css" />
+      <img class="h-16 hover:scale-110 transition duration-500 ease-out" src="https://skillicons.dev/icons?i=javascript" />
+      <img class="h-16 hover:scale-110 transition duration-500 ease-out" src="https://skillicons.dev/icons?i=nodejs" />
+      <img class="h-16 hover:scale-110 transition duration-500 ease-out" src="https://skillicons.dev/icons?i=angular" />
+      <img class="h-16 hover:scale-110 transition duration-500 ease-out" src="https://skillicons.dev/icons?i=typescript" />
+      <img class="h-16 hover:scale-110 transition duration-500 ease-out" src="https://skillicons.dev/icons?i=mongodb" />
+      <img class="h-16 hover:scale-110 transition duration-500 ease-out" src="https://skillicons.dev/icons?i=figma" />
+    </div>
+  </section>
 
-## ⏳ Loading Something Awesome...  
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300"/>
-</p>
+  <!-- HR -->
+  <div class="flex justify-center my-16">
+    <div class="h-[1px] w-2/3 bg-gradient-to-r from-transparent via-white/20 to-transparent"></div>
+  </div>
+
+  <!-- Footer -->
+  <section class="text-center pb-16">
+    <p class="text-gray-400 mb-6">Connect with me</p>
+
+    <div class="flex justify-center gap-6">
+      <a href="mailto:moddm766@gmail.com"
+         class="px-6 py-3 rounded-xl bg-pink-500/10 text-pink-300 hover:bg-pink-500/20 transition duration-500">
+        Gmail
+      </a>
+
+      <a href="https://www.linkedin.com/in/mohamed-zakaria-96715724a/"
+         class="px-6 py-3 rounded-xl bg-cyan-500/10 text-cyan-300 hover:bg-cyan-500/20 transition duration-500">
+        LinkedIn
+      </a>
+    </div>
+  </section>
+
+</body>
+</html>
