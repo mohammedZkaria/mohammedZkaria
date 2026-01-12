@@ -1,86 +1,88 @@
 <h1 align="center">
   Hi, I'm 
-  <span style="background: linear-gradient(90deg,#ff6ec7,#00e5ff);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;">
+  <span style="background: linear-gradient(90deg,#FF6EC7,#00E5FF);
+               -webkit-background-clip: text;
+               -webkit-text-fill-color: transparent;">
     Mohamed Zakaria
   </span>
 </h1>
 
-<h3 align="center" style="color:#8be9fd; font-weight:500;">
+<p align="center" style="color:#8be9fd;font-size:18px;">
   Full-Stack Developer
-</h3>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=8BE9FD&center=true&vCenter=true&width=750&lines=Building+Modern+Web+Apps;Clean+Code+First;Always+Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=8BE9FD&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Clean+Code+Scalable+Systems;Always+Learning" />
 </p>
 
 <br/>
 
-<!-- Soft HR -->
+<!-- HR -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,14" width="70%" />
+  <img src="https://svgshare.com/i/15Qk.svg" width="80%" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me  
 
-<p align="center" style="max-width:700px; margin:auto; line-height:1.8;">
-  Full-Stack Developer passionate about building clean, scalable,
-  and user-friendly web applications.<br/>
-  Currently focusing on <b>Node.js, Angular, and TypeScript</b>.<br/>
-  I care deeply about performance, UX, and code quality.
-</p>
+💻 **Full-Stack Developer** passionate about building clean, scalable, and user-friendly web applications.  
 
-<br/>
+🌱 Currently improving my skills in **Node.js, Angular, and TypeScript**.  
+
+✨ I focus on **clean architecture**, performance, and smooth user experience.  
+
+---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=14,12" width="55%" />
+  <img src="https://svgshare.com/i/15Qk.svg" width="65%" />
+</p>
+
+## 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,express,mongodb,angular,typescript,postman,figma,cpp" />
 </p>
 
 ---
 
-## 🛠 Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,angular,typescript,figma,cpp" />
+  <img src="https://svgshare.com/i/15Qk.svg" width="50%" />
 </p>
 
-<br/>
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,14" width="60%" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohawed442&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohawed442&theme=tokyonight&hide_border=true" width="48%" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohawed442&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=mohawed442&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohawed442&theme=react-dark" width="95%" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohawed442&theme=tokyo-night" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+<p align="center">
+  <img src="https://svgshare.com/i/15Qk.svg" width="40%" />
+</p>
+
+## 🌍 Connect With Me  
 
 <p align="center">
   <a href="mailto:moddm766@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-soft-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Soft-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/mohamed-zakaria-96715724a/">
-    <img src="https://img.shields.io/badge/LinkedIn-soft-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Soft-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/mody.fanta/">
+    <img src="https://img.shields.io/badge/Facebook-Soft-blue?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
 <br/>
 
-<p align="center" style="opacity:0.6;">
+<p align="center" style="color:#777;">
   ⏳ Building something meaningful...
 </p>
