@@ -1,89 +1,181 @@
-<div align="center">
+👋 Hi, I'm Mohammed Zakaria
 
-<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Mohamed%20Zakaria&fontSize=80&animation=fadeIn&fontAlignY=40" />
+<!-- GitHub Profile Views -->
 
-### 🚀 Full-Stack Architect & Clean Code Artisan
+<!-- GitHub Trophies -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Transforming+Ideas+Into+Scalable+Reality;Mastering+Clean+Architecture;Tailwind+CSS+Specialist" />
-</p>
+Full-Stack Developer | Scalable Web Architecture • Clean Code • Performance Optimization
 
----
-
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL) 
-[![Portfolio](https://img.shields.io/badge/View-Portfolio-FF5733?style=for-the-badge&logo=visual-studio-code)](YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Contact-Me-blue?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
-
-</div>
 
 ---
 
-## 💎 The Developer Persona
+<!-- GitHub Stats --><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username" height="160" />
+</p>🚀 About Me
 
-<table border="0">
-  <tr>
-    <td width="60%">
-      <p><strong>Results-driven Full-Stack Developer</strong> specializing in building robust, scalable web applications. I bridge the gap between complex backend logic and pixel-perfect frontend experiences.</p>
-      <ul>
-        <li>✨ <b>Focus:</b> Clean Architecture & Scalable Systems.</li>
-        <li>🛠️ <b>Precision:</b> Quality over quantity, always.</li>
-        <li>🚀 <b>Speed:</b> Optimized for 65% faster load times.</li>
-      </ul>
-    </td>
-    <td width="40%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohawed442&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=6" />
-    </td>
-  </tr>
-</table>
+I am a results-driven Full-Stack Developer with a strong focus on building scalable, maintainable, and high-performance web applications. I specialize in Clean Architecture, writing clean and readable code, and transforming complex business requirements into reliable technical solutions.
+
+I care deeply about long-term project health — prioritizing code quality over shortcuts, scalability over temporary fixes, and user experience over visual noise.
+
 
 ---
 
-## 🛠️ My Skill Orbit (Animated)
+🧠 Core Philosophy
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,mongodb,angular,tailwind,figma,git,github,docker,aws&perline=6" />
-</p>
+Clean Code is not optional — it is a responsibility
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohawed442&theme=tokyonight" width="90%" />
-</p>
+Maintainability beats speed-only solutions
 
----
+Performance and security are part of the design, not afterthoughts
 
-## 🏆 Impact & Achievements
+Continuous learning is a core skill, not a bonus
 
-> [!TIP]
-> **Engineering Excellence:** Architected 15+ production apps serving 10K+ users.
 
-- **Technical Leadership:** Mentored 5+ juniors & improved team productivity by **40%**.
-- **Innovation:** Developed a component library that saved **30%** of development time.
-- **Optimization:** Implemented CI/CD pipelines reducing deployment time by **80%**.
 
 ---
 
-## 🌌 Activity Skyline
+🛠️ Technical Skills
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohawed442&theme=react-dark&area=true&hide_border=true&bg_color=0D1117" width="100%" />
-</p>
+🏷️ Tech Badges
+
+        
+
+🎨 Frontend Development
+
+Languages: HTML5, CSS3, JavaScript (ES6+), TypeScript
+
+Frameworks: Angular (Primary), React (Secondary)
+
+Styling: Tailwind CSS (Advanced), Sass
+
+State Management: RxJS, NgRx
+
+Testing: Jest, Jasmine
+
+
+⚙️ Backend Development
+
+Runtime: Node.js
+
+Frameworks: Express.js, NestJS
+
+Databases: MongoDB, PostgreSQL, MySQL
+
+API Design: RESTful APIs
+
+Authentication & Security: JWT, OAuth 2.0
+
+
+🔧 Engineering & DevOps
+
+Git, GitHub
+
+CI/CD with GitHub Actions
+
+Docker & Docker Compose
+
+Agile / Scrum Methodologies
+
+Clean Architecture, SOLID Principles
+
+
 
 ---
 
-## 🤝 Professional Synergy & Value
+🏆 Key Achievements
 
-| Immediate Contributions | Long-term Strategic Impact |
-| :--- | :--- |
-| ✅ Clean, maintainable code from Day 1 | 📈 Architectural decisions for growth |
-| ✅ Full-stack expertise (Angular/Node) | 🧠 Team mentorship & knowledge culture |
-| ✅ Security & Best Practices | 🚀 Innovation-driven efficiency |
+Architected and delivered 15+ production-ready web applications
+
+Improved application performance by up to 65% through optimization techniques
+
+Built CI/CD pipelines reducing deployment time by 80%
+
+Developed reusable components and modules reducing development time by 30%
+
+Mentored junior developers and enforced clean coding standards
+
+Solved complex performance bottlenecks in high-traffic systems
+
+
 
 ---
 
-## 🧠 The Logic Zone
-```javascript
-// A signature of a problem solver
-const mohamed = {
-  status: "Always Learning",
-  motto: "Clean code is not a luxury, it's a necessity",
-  canSolve: (problem) => problem.split('').reverse().join('') === 'success'
-};
+🤝 Collaboration & Work Style
+
+Constructive and educational code reviews
+
+Strong advocate of clear and living documentation
+
+Enjoy pair programming and knowledge sharing
+
+Communicate technical concepts clearly to non-technical stakeholders
+
+
+
+---
+
+💼 What I Bring to Teams
+
+Immediate Value
+
+Full-stack contribution from day one
+
+Clean, scalable, and secure codebases
+
+Performance-focused development mindset
+
+
+Long-Term Impact
+
+Reduced technical debt
+
+Strong architectural foundations
+
+Team growth through mentorship and standards
+
+
+
+---
+
+🎯 Professional Vision
+
+Short-Term Goals:
+
+Deepen expertise in scalable backend architecture
+
+Contribute to open-source projects
+
+Strengthen DevOps and cloud fundamentals
+
+
+Long-Term Goals:
+
+Lead technical architecture for large-scale platforms
+
+Mentor upcoming developers
+
+Share knowledge through technical writing and talks
+
+
+
+---
+
+📌 Tech Stack Focus
+
+JavaScript TypeScript Angular Node.js NestJS MongoDB Tailwind CSS Clean Architecture
+
+
+---
+
+📫 Connect With Me
+
+GitHub: https://github.com/your-username
+
+LinkedIn: https://linkedin.com/in/your-profile
+
+
+
+---
+
+> "Code is a long-term investment. I build software meant to last."
