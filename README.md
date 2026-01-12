@@ -1,193 +1,97 @@
-# <div align="center">
-# 
-# ✨ **Mohamed Hawed** ✨
-# 
-# ```
-#  ___  ___      _     _   _               _
-# |  \/  |     | |   | | | |             | |
-# | .  . | ___ | |__ | | | | __ ___  ___| |
-# | |\/| |/ _ \| '_ \| | | |/ _` \ \/ / | |
-# | |  | | (_) | | | | |_| | (_| |>  <| |_|
-# \_|  |_/\___/|_| |_|\___/ \__,_/_/\_\___/
-# ```
-# 
-# **Full-Stack Developer | Clean Code Advocate | Web Architecture Specialist**
-# 
-# </div>
+<!-- ملف README لبروفايل GitHub - mohawed442 -->
+<!-- تصميم بألوان هادئة، أيقونات، وحركة خفيفة باستخدام صور SVG خارجية شائعة -->
+
+<!-- Header متحرك (typing effect) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6B7280&center=true&vCenter=true&width=760&height=60&lines=مرحبا+%F0%9F%91%8B;أنا+mohawed442;مطور+واجهات+ومطور+Full-Stack" alt="typing">
+</p>
+
+<!-- Animated soft wave SVG -->
+<p align="center">
+  <svg width="100%" height="120" viewBox="0 0 1200 120" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" style="background:transparent">
+    <defs>
+      <linearGradient id="g" x1="0" x2="1">
+        <stop offset="0%" stop-color="#eef2ff"/>
+        <stop offset="100%" stop-color="#f8fafc"/>
+      </linearGradient>
+    </defs>
+    <path d="M0,32 C150,120 350,0 600,32 C850,64 1050,8 1200,32 L1200 120 L0 120 Z" fill="url(#g)">
+      <animate attributeName="d" dur="8s" repeatCount="indefinite"
+       values="M0,32 C150,120 350,0 600,32 C850,64 1050,8 1200,32 L1200 120 L0 120 Z;
+               M0,28 C150,8 350,120 600,28 C850,-20 1050,72 1200,28 L1200 120 L0 120 Z;
+               M0,32 C150,120 350,0 600,32 C850,64 1050,8 1200,32 L1200 120 L0 120 Z"/>
+    </path>
+  </svg>
+</p>
+
+<!-- نبذة قصيرة -->
+<p align="center">
+  <strong style="color:#374151">مطور شغوف ببناء واجهات أنيقة وتجربة مستخدم سلسة، وأيضًا تطوير Back-end مرن وقابل للتوسيع.</strong>
+</p>
 
 ---
 
-## 👋 About Me
-
-I'm a passionate **Full-Stack Developer** dedicated to crafting elegant solutions to complex problems. With expertise in modern web technologies and a commitment to clean architecture principles, I specialize in building **scalable, maintainable, and user-centric web applications** that make a real impact.
-
-> 🎯 **Philosophy**: *Great code is not just functional—it's readable, testable, and built with purpose.*
-
----
-
-## 🛠️ Technical Stack
-
-### **Frontend Development**
-- **Languages & Markup**: HTML5, CSS3, JavaScript, TypeScript
-- **Frameworks & Libraries**: Angular, Bootstrap, Tailwind CSS
-- **Specialization**: Responsive Design, UX Implementation, Component Architecture
-
-### **Backend Development**
-- **Runtime & Framework**: Node.js, Express.js
-- **Databases**: MongoDB
-- **API Design**: RESTful APIs, Postman (API Testing & Documentation)
-
-### **Additional Technologies**
-- **Systems Programming**: C++
-- **Design & Prototyping**: Figma
-- **Development Practices**: Clean Architecture, SOLID Principles, Design Patterns
+## المهارات / Skills
+<p align="center">
+  <!-- استخدمت شيلدز لإظهار أيقونات لطيفة وبألوان هادئة -->
+  <img src="https://img.shields.io/badge/HTML5-%23F97316?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS3-%2360A5FA?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/JavaScript-%23FBBF24?style=for-the-badge&logo=javascript&logoColor=white" alt="JS">
+  <img src="https://img.shields.io/badge/TypeScript-%2360A5FA?style=for-the-badge&logo=typescript&logoColor=white" alt="TS">
+  <img src="https://img.shields.io/badge/Node.js-%2334D399?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
+  <img src="https://img.shields.io/badge/Express-%23111827?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/Bootstrap-%23A78BFA?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Tailwind-%2334D399?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
+  <img src="https://img.shields.io/badge/Angular-%23FB7185?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/Postman-%23F97316?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/MongoDB-%2334D399?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Figma-%23FB7185?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/C%2B%2B-%2360A5FA?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+</p>
 
 ---
 
-## 🏆 Professional Achievements
-
-✅ **Architecture Excellence**
-- Designed and implemented scalable microservices architectures for high-traffic applications
-- Reduced application load time by 40% through optimization and refactoring
-
-✅ **Code Quality**
-- Established and maintained coding standards across multiple projects
-- Achieved 85%+ test coverage through comprehensive unit and integration testing
-- Mentored junior developers in clean code practices and architectural patterns
-
-✅ **Full-Stack Delivery**
-- Successfully led end-to-end development of complex applications from conception to production
-- Implemented responsive UIs serving 10,000+ monthly active users
-- Developed robust APIs processing millions of requests efficiently
-
-✅ **Problem Solving**
-- Debugged and resolved critical production issues with minimal downtime
-- Optimized database queries achieving 50% improvement in query performance
-- Architected solutions for complex business logic challenges
+## ما الذي أقدمه؟
+- تصميم واجهات مستخدم جذابة وسريعة باستخدام HTML, CSS, Tailwind وBootstrap.
+- تطوير تطبيقات متكاملة (REST APIs) باستخدام Node.js وExpress وMongoDB.
+- تطبيقات TypeScript مع مراعاة النوعية والأمان.
+- التعاون عبر Postman وملفات OpenAPI للاختبار والتوثيق.
+- تصميم واجهات وتجارب مستخدم في Figma وتحويلها إلى كود عملي.
 
 ---
 
-## 💡 Engineering Philosophy
+## مشاريع مميزة
+- ضع هنا روابط مشاريعك (مثال):  
+  - [مشروعي-1](https://github.com/mohawed442/project-1) — وصف قصير للمشروع.
+  - [مشروعي-2](https://github.com/mohawed442/project-2) — وصف قصير للمشروع.
 
-### **Clean Architecture**
-I believe in writing code that stands the test of time:
-- **Separation of Concerns**: Clear boundaries between business logic, presentation, and data layers
-- **Maintainability**: Code should be easy to understand, modify, and extend
-- **Testability**: Comprehensive test coverage ensures confidence in changes
-
-### **UX-Centric Approach**
-Every line of code serves the user:
-- **Accessibility First**: Building for all users, regardless of ability
-- **Performance Matters**: Optimizing for speed and responsiveness
-- **User Feedback Loop**: Continuous iteration based on user needs
-
-### **Continuous Improvement**
-- Staying updated with emerging technologies and best practices
-- Embracing code reviews and collaborative problem-solving
-- Learning from failures and iterating quickly
+> Tip: أضف روابط المستودعات الحقيقية مكان الأمثلة أعلاه ليظهروا مباشرة في البروفايل.
 
 ---
 
-## 📊 GitHub Analytics
+## إحصاءات GitHub (ديناميكية)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohawed442&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohawed442&layout=compact&hide_border=true&theme=radical" alt="top langs" />
+</p>
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohawed442&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohawed442&layout=compact&theme=dark)
-
-</div>
+(ألوان البطاقات قابلة للتغيير: استبدل theme أو parametrs حسب رغبتك.)
 
 ---
 
-## 👥 Collaboration Style
+## تواصل
+- البريد الإلكتروني: example@email.com
+- LinkedIn: https://www.linkedin.com/in/your-profile
+- موقع/حافظة أعمال: https://your-portfolio.com
 
-I thrive in collaborative environments where:
-
-🤝 **Open Communication**: Clear, honest feedback helps everyone grow
-🔄 **Knowledge Sharing**: Teaching and learning from teammates is essential
-⚡ **Agile Mindset**: Quick adaptation to changing requirements and market needs
-📚 **Documentation First**: Clear documentation reduces friction and accelerates onboarding
-🎯 **Goal Alignment**: Understanding the "why" behind features ensures better outcomes
+استبدل المعلومات أعلاه بمعلوماتك الحقيقية.
 
 ---
 
-## 💼 Value Proposition for Organizations
+إذا حبيت: أستطيع
+- تحويل الملف إلى نسخة ثنائية اللغة (عربي + إنجليزي).
+- ضبط ألوان الشيلدز لتكون بدرجات ألوان مخصصة أكثر هدوءًا.
+- توليد نسخة HTML مستقلة بصيغة صفحة شخصية كاملة (قابلة للنشر عبر GitHub Pages).
+- أو أضف الروابط الحقيقية (LinkedIn, email, repos) وأضعها مباشرة في الملف ثم أرسل لك النسخة النهائية.
 
-When you work with me, you gain:
-
-| Aspect | Value |
-|--------|-------|
-| **Code Quality** | Maintainable, testable, and scalable solutions that reduce technical debt |
-| **Architecture** | Well-designed systems that grow with your business needs |
-| **Performance** | Optimized applications delivering superior user experiences |
-| **Reliability** | Production-ready code with comprehensive error handling |
-| **Team Dynamics** | Collaborative mindset that elevates team productivity |
-| **Time-to-Market** | Efficient development practices accelerating feature delivery |
-
----
-
-## 🚀 Professional Vision
-
-### **Short-Term Goals (Next 6-12 months)**
-- 🎯 Deepen expertise in advanced Angular patterns and state management
-- 🎯 Contribute to open-source projects and build a recognized presence
-- 🎯 Master cloud technologies (AWS/Azure) for scalable deployments
-- 🎯 Build 2-3 portfolio projects showcasing full-stack excellence
-
-### **Long-Term Vision (2-5 years)**
-- 🌟 Become a recognized technical leader in full-stack development
-- 🌟 Mentor and guide junior developers in their growth journey
-- 🌟 Lead architectural decisions for high-impact products
-- 🌟 Contribute to open-source frameworks and standards
-- 🌟 Create educational content helping developers master clean architecture
-
----
-
-## 📈 Current Focus
-
-🔬 **Learning & Exploration**
-- Advanced TypeScript patterns and type system mastery
-- Microservices architecture and containerization (Docker, Kubernetes)
-- GraphQL for next-generation API design
-- Performance optimization techniques and monitoring
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-### **Get in Touch**
-
-I'm always interested in discussing:
-- 💬 Innovative web development challenges
-- 🤝 Collaboration opportunities and exciting projects
-- 📚 Best practices, architecture patterns, and technology trends
-- 🌱 Mentoring and knowledge sharing
-
-**📧 Email**: [Your Email Here]  
-**🔗 LinkedIn**: [Your LinkedIn Profile]  
-**🌐 Portfolio**: [Your Portfolio Website]
-
----
-
-### 🎯 Let's Build Something Amazing Together!
-
-<a href="https://github.com/mohawed442">
-  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub">
-</a>
-
----
-
-**Last Updated**: January 12, 2026 | *Continuously evolving* 🚀
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ If you find my work interesting, don't forget to leave a star!
-
-</div>
+— GitHub Copilot Chat Assistant
