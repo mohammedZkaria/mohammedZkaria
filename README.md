@@ -65,12 +65,6 @@ const mohamedZakaria = {
 <table>
 <tr>
 <td align="center" width="140" height="112.43">
-<img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5"/><br/>HTML5
-</td>
-<td align="center" width="140" height="112.43">
-<img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3"/><br/>CSS3
-</td>
-<td align="center" width="140" height="112.43">
 <img src="https://skillicons.dev/icons?i=js" width="65px" alt="JavaScript"/><br/>JavaScript
 </td>
 <td align="center" width="140" height="112.43">
@@ -85,6 +79,15 @@ const mohamedZakaria = {
 
 <table>
 <tr>
+  <td align="center" width="140" height="112.43">
+  <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5"/><br/>HTML5
+</td>
+<td align="center" width="140" height="112.43">
+<img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3"/><br/>CSS3
+</td>
+  <td align="center" width="140" height="112.43">
+<img src="https://skillicons.dev/icons?i=js" width="65px" alt="JavaScript"/><br/>JavaScript
+</td>
 <td align="center" width="140" height="112.43">
 <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap"/><br/>Bootstrap
 </td>
@@ -284,3 +287,4 @@ Create value through technology
 ![Made with ❤️ by Mohamed Zakaria](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Mohamed%20Zakaria-blueviolet?style=for-the-badge)
 
 </div>
+
