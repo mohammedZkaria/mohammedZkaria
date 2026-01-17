@@ -56,34 +56,87 @@ const mohamedZakaria = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<!-- Languages -->
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+### 🧠 Programming Languages
 
-<!-- Frontend -->
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<table>
+<tr>
+<td align="center" width="140" height="112.43">
+<img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5"/><br/>HTML5
+</td>
+<td align="center" width="140" height="112.43">
+<img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3"/><br/>CSS3
+</td>
+<td align="center" width="140" height="112.43">
+<img src="https://skillicons.dev/icons?i=js" width="65px" alt="JavaScript"/><br/>JavaScript
+</td>
+<td align="center" width="140" height="112.43">
+<img src="https://skillicons.dev/icons?i=cpp" width="65px" alt="C++"/><br/>C++
+</td>
+</tr>
+</table>
 
-<!-- Backend -->
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-<!-- Tools -->
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### 🎨 Frontend Development
+
+<table>
+<tr>
+<td align="center" width="140" height="112.43">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap"/><br/>Bootstrap
+</td>
+<td align="center" width="140" height="112.43">
+<img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="Tailwind CSS"/><br/>Tailwind CSS
+</td>
+<td align="center" width="140" height="112.43">
+<img src="https://skillicons.dev/icons?i=angular" width="65px" alt="Angular"/><br/>Angular
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+### ⚙️ Backend & Database
+
+<table>
+<tr>
+<td align="center" width="140" height="112.43">
+<img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="Node.js"/><br/>Node.js
+</td>
+<td align="center" width="140" height="112.43">
+<img src="https://skillicons.dev/icons?i=express" width="65px" alt="Express.js"/><br/>Express.js
+</td>
+<td align="center" width="140" height="112.43">
+<img src="https://skillicons.dev/icons?i=mongodb" width="65px" alt="MongoDB"/><br/>MongoDB
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+### 🔧 Tools & Platforms
+
+<table>
+<tr>
+<td align="center" width="140" height="112.43">
+<img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git"/><br/>Git
+</td>
+<td align="center" width="140" height="112.43">
+<img src="https://skillicons.dev/icons?i=github" width="65px" alt="GitHub"/><br/>GitHub
+</td>
+<td align="center" width="140" height="112.43">
+<img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="VS Code"/><br/>VS Code
+</td>
+<td align="center" width="140" height="112.43">
+<img src="https://skillicons.dev/icons?i=figma" width="65px" alt="Figma"/><br/>Figma
+</td>
+</tr>
+</table>
 
 </div>
-
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
@@ -115,7 +168,11 @@ const mohamedZakaria = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mohawed442/mohawed442/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohawed442/mohawed442/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohawed442/mohawed442/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mohawed442/mohawed442/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
@@ -126,11 +183,44 @@ const mohamedZakaria = {
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 </div>
 
-- 🔭 Currently working on **building innovative MEAN stack applications**
-- 🌱 Learning **advanced Angular patterns and microservices architecture**
-- 👯 Looking to collaborate on **open source projects**
-- 💬 Ask me about **JavaScript, Angular, Node.js, MongoDB**
-- ⚡ Fun fact: **I turn coffee into code!** ☕️➡️💻
+<br/>
+
+<table align="center">
+<tr>
+<td align="center" width="300">
+<img src="https://img.icons8.com/clouds/200/000000/futurama-bender.png" width="80"/><br/>
+<b>Current Focus</b><br/>
+Building innovative MEAN stack applications
+</td>
+<td align="center" width="300">
+<img src="https://img.icons8.com/clouds/200/000000/idea.png" width="80"/><br/>
+<b>Learning</b><br/>
+Advanced Angular patterns & microservices
+</td>
+<td align="center" width="300">
+<img src="https://img.icons8.com/clouds/200/000000/communication.png" width="80"/><br/>
+<b>Collaboration</b><br/>
+Looking for open source projects
+</td>
+</tr>
+<tr>
+<td align="center" width="300">
+<img src="https://img.icons8.com/clouds/200/000000/chat.png" width="80"/><br/>
+<b>Ask Me About</b><br/>
+JavaScript, Angular, Node.js, MongoDB
+</td>
+<td align="center" width="300">
+<img src="https://img.icons8.com/clouds/200/000000/coffee.png" width="80"/><br/>
+<b>Fun Fact</b><br/>
+I turn coffee into code! ☕️➡️💻
+</td>
+<td align="center" width="300">
+<img src="https://img.icons8.com/clouds/200/000000/goal.png" width="80"/><br/>
+<b>Goal</b><br/>
+Create value through technology
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
@@ -138,52 +228,59 @@ const mohamedZakaria = {
 
 <div align="center">
   
-  <a href="https://mohawed442.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohamed-zakaria-96715724a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/mody.fanta">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  
-  <br/><br/>
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-  
+<a href="https://mohawed442.github.io/Portfolio/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/mohamed-zakaria-96715724a/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.facebook.com/mody.fanta" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+<a href="mailto:your.email@example.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
 </div>
 
 ---
 
 <div align="center">
   
-  ### 💭 Quote of the Day
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-  
-  <br/><br/>
-  
-  ### ✨ "Strive not to be a success, but rather to be of value." – Albert Einstein
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-  
+### 💭 Developer Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+<br/><br/>
+
+### ✨ Words to Live By
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=800&lines=%22Strive+not+to+be+a+success%2C+but+rather+to+be+of+value.%22;–+Albert+Einstein" alt="Quote"/>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
-</div>
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
-<div align="center">
-  
-  ### Show some ❤️ by starring some repositories!
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500">
-  
-</div>
+<br/>
 
+### ⭐ Show some love by starring repositories!
+
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500">
+
+<br/>
+
+![Made with ❤️ by Mohamed Zakaria](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Mohamed%20Zakaria-blueviolet?style=for-the-badge)
+
+</div>
