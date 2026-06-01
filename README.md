@@ -65,88 +65,42 @@ const mohammedZkaria = {
 
 ### 🧠 Programming Languages
 
-<table>
-<tr>
-<td align="center" width="140" height="112.43">
-<img src="https://skillicons.dev/icons?i=js" width="65px" alt="JavaScript"/><br/>JavaScript
-</td>
-<td align="center" width="140" height="112.43">
-<img src="https://skillicons.dev/icons?i=ts" width="65px" alt="TypeScript"/><br/>TypeScript
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=js,ts" />
+
+<br/><br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ### 🎨 Frontend Development
 
-<table>
-<tr>
-<td align="center" width="140" height="112.43">
-<img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5"/><br/>HTML5
-</td>
-<td align="center" width="140" height="112.43">
-<img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3"/><br/>CSS3
-</td>
-<td align="center" width="140" height="112.43">
-<img src="https://skillicons.dev/icons?i=angular" width="65px" alt="Angular"/><br/>Angular
-</td>
-<td align="center" width="140" height="112.43">
-<img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="Tailwind CSS"/><br/>Tailwind CSS
-</td>
-<td align="center" width="140" height="112.43">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap"/><br/>Bootstrap
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=html,css,angular,tailwind,bootstrap" />
+
+<br/><br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ### ⚙️ Backend & Database
 
-<table>
-<tr>
-<td align="center" width="140" height="112.43">
-<img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="Node.js"/><br/>Node.js
-</td>
-<td align="center" width="140" height="112.43">
-<img src="https://skillicons.dev/icons?i=express" width="65px" alt="Express.js"/><br/>Express.js
-</td>
-<td align="center" width="140" height="112.43">
-<img src="https://skillicons.dev/icons?i=mongodb" width="65px" alt="MongoDB"/><br/>MongoDB
-</td>
-<td align="center" width="140" height="112.43">
-<img src="https://skillicons.dev/icons?i=redis" width="65px" alt="Redis"/><br/>Redis
-</td>
-<td align="center" width="140" height="112.43">
-<img src="https://skillicons.dev/icons?i=socketio" width="65px" alt="Socket.io"/><br/>Socket.io
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" />
+
+<br/>
+
+<!-- Socket.io — no skillicons icon available, using badge -->
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io"/>
+
+<br/><br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ### 🔧 Tools & Platforms
 
-<table>
-<tr>
-<td align="center" width="140" height="112.43">
-<img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git"/><br/>Git
-</td>
-<td align="center" width="140" height="112.43">
-<img src="https://skillicons.dev/icons?i=github" width="65px" alt="GitHub"/><br/>GitHub
-</td>
-<td align="center" width="140" height="112.43">
-<img src="https://skillicons.dev/icons?i=postman" width="65px" alt="Postman"/><br/>Postman
-</td>
-<td align="center" width="140" height="112.43">
-<img src="https://skillicons.dev/icons?i=figma" width="65px" alt="Figma"/><br/>Figma
-</td>
-<td align="center" width="140" height="112.43">
-<img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="VS Code"/><br/>VS Code
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
+
+<br/>
+
+<!-- Apidog & Suger — no skillicons icons available, using badges -->
+<img src="https://img.shields.io/badge/Apidog-0067FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNEg5VjhoMnY4em00IDBoLTJWOGgydjh6Ii8+PC9zdmc+&logoColor=white" alt="Apidog"/>
+<img src="https://img.shields.io/badge/Suger-6C3483?style=for-the-badge&logoColor=white" alt="Suger"/>
 
 </div>
 
@@ -265,47 +219,18 @@ Personal portfolio showcasing projects, skills, and experience as a Full-Stack D
 ## 💼 What I Do
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
-</div>
 
 <br/>
 
-<table align="center">
-<tr>
-<td align="center" width="300">
-<img src="https://img.icons8.com/clouds/200/000000/futurama-bender.png" width="80"/><br/>
-<b>Current Focus</b><br/>
-Building full-stack MEAN applications with real-time features
-</td>
-<td align="center" width="300">
-<img src="https://img.icons8.com/clouds/200/000000/idea.png" width="80"/><br/>
-<b>Learning</b><br/>
-Advanced Angular patterns & microservices architecture
-</td>
-<td align="center" width="300">
-<img src="https://img.icons8.com/clouds/200/000000/communication.png" width="80"/><br/>
-<b>Collaboration</b><br/>
-Open to freelance & open source projects
-</td>
-</tr>
-<tr>
-<td align="center" width="300">
-<img src="https://img.icons8.com/clouds/200/000000/chat.png" width="80"/><br/>
-<b>Ask Me About</b><br/>
-Angular, Node.js, MongoDB, Socket.io, REST APIs
-</td>
-<td align="center" width="300">
-<img src="https://img.icons8.com/clouds/200/000000/coffee.png" width="80"/><br/>
-<b>Fun Fact</b><br/>
-I turn coffee into code! ☕️➡️💻
-</td>
-<td align="center" width="300">
-<img src="https://img.icons8.com/clouds/200/000000/goal.png" width="80"/><br/>
-<b>Goal</b><br/>
-Deliver value through clean, scalable technology
-</td>
-</tr>
-</table>
+| 🎯 Current Focus | 📚 Learning | 🤝 Collaboration |
+|:---:|:---:|:---:|
+| Building full-stack MEAN apps with real-time features | Advanced Angular patterns & microservices | Open to freelance & open source projects |
+
+| 💬 Ask Me About | ☕ Fun Fact | 🏆 Goal |
+|:---:|:---:|:---:|
+| Angular, Node.js, MongoDB, Socket.io, REST APIs | I turn coffee into code! ☕➡️💻 | Deliver value through clean, scalable technology |
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
