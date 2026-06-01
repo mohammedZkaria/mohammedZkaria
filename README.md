@@ -1,28 +1,29 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohamed%20Zakaria&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20(MEAN)&descSize=20&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohammed%20Zkaria&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20(MEAN)&descSize=20&descAlignY=55" width="100%"/>
 </div>
 
 <div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Mohamed+Zakaria;Full-Stack+Developer+(MEAN);Transforming+Ideas+Into+Reality+%F0%9F%9A%80;Building+Scalable+Web+Applications+%F0%9F%92%BB" alt="Typing SVG" />
-  
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Mohammed+Zkaria;Full-Stack+Developer+(MEAN);Transforming+Ideas+Into+Reality+%F0%9F%9A%80;Building+Scalable+Web+Applications+%F0%9F%92%BB" alt="Typing SVG" />
+
   <br/>
-  
+
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-  
+
 </div>
 
 <br/>
 
 <div align="center">
-  
+
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohawed442.github.io/Portfolio/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-zakaria-96715724a/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-zkaria)
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mody.fanta)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohawed442)
-  
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moddm766@gmail.com)
+
   <img src="https://komarev.com/ghpvc/?username=mohawed442&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />
-  
+
 </div>
 
 ---
@@ -32,22 +33,24 @@
 ## 💫 About Me
 
 ```javascript
-const mohamedZakaria = {
+const mohammedZkaria = {
     role: "Full-Stack Developer (MEAN)",
-    location: "Egypt 🇪🇬",
-    code: ["JavaScript", "HTML5", "CSS3", "C++"],
+    location: "Cairo, Egypt 🇪🇬",
+    code: ["JavaScript", "TypeScript", "HTML5", "CSS3"],
     technologies: {
         frontEnd: {
-            frameworks: ["Angular"],
-            css: ["Bootstrap", "Tailwind CSS"],
-            design: ["Figma"]
+            frameworks: ["Angular v18+"],
+            css: ["Tailwind CSS", "Bootstrap"],
+            tools: ["Figma"]
         },
         backEnd: {
             runtime: ["Node.js"],
             frameworks: ["Express.js"],
-            databases: ["MongoDB"]
+            realTime: ["Socket.io"],
+            databases: ["MongoDB", "Redis"]
         },
-        tools: ["Git", "GitHub", "VS Code"]
+        security: ["JWT", "Bcrypt"],
+        tools: ["Git", "GitHub", "Postman", "Apidog", "Suger", "VS Code"]
     },
     currentFocus: "Building scalable, secure, high-performance web applications",
     funFact: "I debug with console.log() and I'm proud of it! 😄"
@@ -68,7 +71,7 @@ const mohamedZakaria = {
 <img src="https://skillicons.dev/icons?i=js" width="65px" alt="JavaScript"/><br/>JavaScript
 </td>
 <td align="center" width="140" height="112.43">
-<img src="https://skillicons.dev/icons?i=cpp" width="65px" alt="C++"/><br/>C++
+<img src="https://skillicons.dev/icons?i=ts" width="65px" alt="TypeScript"/><br/>TypeScript
 </td>
 </tr>
 </table>
@@ -79,23 +82,20 @@ const mohamedZakaria = {
 
 <table>
 <tr>
-  <td align="center" width="140" height="112.43">
-  <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5"/><br/>HTML5
+<td align="center" width="140" height="112.43">
+<img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5"/><br/>HTML5
 </td>
 <td align="center" width="140" height="112.43">
 <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3"/><br/>CSS3
 </td>
-  <td align="center" width="140" height="112.43">
-<img src="https://skillicons.dev/icons?i=js" width="65px" alt="JavaScript"/><br/>JavaScript
-</td>
 <td align="center" width="140" height="112.43">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap"/><br/>Bootstrap
+<img src="https://skillicons.dev/icons?i=angular" width="65px" alt="Angular"/><br/>Angular
 </td>
 <td align="center" width="140" height="112.43">
 <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="Tailwind CSS"/><br/>Tailwind CSS
 </td>
 <td align="center" width="140" height="112.43">
-<img src="https://skillicons.dev/icons?i=angular" width="65px" alt="Angular"/><br/>Angular
+<img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap"/><br/>Bootstrap
 </td>
 </tr>
 </table>
@@ -115,6 +115,12 @@ const mohamedZakaria = {
 <td align="center" width="140" height="112.43">
 <img src="https://skillicons.dev/icons?i=mongodb" width="65px" alt="MongoDB"/><br/>MongoDB
 </td>
+<td align="center" width="140" height="112.43">
+<img src="https://skillicons.dev/icons?i=redis" width="65px" alt="Redis"/><br/>Redis
+</td>
+<td align="center" width="140" height="112.43">
+<img src="https://skillicons.dev/icons?i=socketio" width="65px" alt="Socket.io"/><br/>Socket.io
+</td>
 </tr>
 </table>
 
@@ -131,10 +137,86 @@ const mohamedZakaria = {
 <img src="https://skillicons.dev/icons?i=github" width="65px" alt="GitHub"/><br/>GitHub
 </td>
 <td align="center" width="140" height="112.43">
-<img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="VS Code"/><br/>VS Code
+<img src="https://skillicons.dev/icons?i=postman" width="65px" alt="Postman"/><br/>Postman
 </td>
 <td align="center" width="140" height="112.43">
 <img src="https://skillicons.dev/icons?i=figma" width="65px" alt="Figma"/><br/>Figma
+</td>
+<td align="center" width="140" height="112.43">
+<img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="VS Code"/><br/>VS Code
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 E-Commerce Ecosystem
+**MEAN Stack · Full Stack**
+
+A full-featured online store with real-time product management, secure shopping cart, and order processing pipeline.
+
+- ⚡ Angular frontend with lazy loading
+- 🔒 JWT & Bcrypt authentication
+- 📦 Scalable Express.js backend
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/mohawed442)
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 Real-Time Messaging Platform
+**Node.js · Socket.io · Angular**
+
+A real-time chat service with private channels, live message delivery, and admin management tools.
+
+- 🔄 Live messaging via Socket.io
+- 🔐 Private channels & admin controls
+- 📱 Responsive Angular UI
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/mohawed442)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✅ Task Management System
+**MEAN Stack · In Progress**
+
+A team productivity app for creating, assigning, and tracking tasks in real time across multiple user roles.
+
+- 👥 Role-based access (Admin, Manager, Member)
+- 🖱️ Drag-and-drop task boards
+- 📡 Real-time updates via Socket.io
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/mohawed442)
+![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Portfolio Website
+**Angular · Tailwind CSS**
+
+Personal portfolio showcasing projects, skills, and experience as a Full-Stack Developer.
+
+- 🎨 Clean, responsive design
+- ⚡ Fast Angular SPA
+- 📬 Contact integration
+
+[![Live](https://img.shields.io/badge/Live-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://mohawed442.github.io/Portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/mohawed442)
+
 </td>
 </tr>
 </table>
@@ -146,8 +228,8 @@ const mohamedZakaria = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohawed442&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohawed442&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohawed442&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohawed442&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" height="180" alt="languages graph" />
 </div>
 
 <div align="center">
@@ -155,7 +237,7 @@ const mohamedZakaria = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohawed442&custom_title=Mohamed%20Zakaria's%20Contribution%20Graph&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area_color=F85D7F&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohawed442&custom_title=Mohammed%20Zkaria%27s%20Contribution%20Graph&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area_color=F85D7F&area=true&hide_border=true" width="100%"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
@@ -193,24 +275,24 @@ const mohamedZakaria = {
 <td align="center" width="300">
 <img src="https://img.icons8.com/clouds/200/000000/futurama-bender.png" width="80"/><br/>
 <b>Current Focus</b><br/>
-Building innovative MEAN stack applications
+Building full-stack MEAN applications with real-time features
 </td>
 <td align="center" width="300">
 <img src="https://img.icons8.com/clouds/200/000000/idea.png" width="80"/><br/>
 <b>Learning</b><br/>
-Advanced Angular patterns & microservices
+Advanced Angular patterns & microservices architecture
 </td>
 <td align="center" width="300">
 <img src="https://img.icons8.com/clouds/200/000000/communication.png" width="80"/><br/>
 <b>Collaboration</b><br/>
-Looking for open source projects
+Open to freelance & open source projects
 </td>
 </tr>
 <tr>
 <td align="center" width="300">
 <img src="https://img.icons8.com/clouds/200/000000/chat.png" width="80"/><br/>
 <b>Ask Me About</b><br/>
-JavaScript, Angular, Node.js, MongoDB
+Angular, Node.js, MongoDB, Socket.io, REST APIs
 </td>
 <td align="center" width="300">
 <img src="https://img.icons8.com/clouds/200/000000/coffee.png" width="80"/><br/>
@@ -220,7 +302,7 @@ I turn coffee into code! ☕️➡️💻
 <td align="center" width="300">
 <img src="https://img.icons8.com/clouds/200/000000/goal.png" width="80"/><br/>
 <b>Goal</b><br/>
-Create value through technology
+Deliver value through clean, scalable technology
 </td>
 </tr>
 </table>
@@ -230,17 +312,17 @@ Create value through technology
 ## 📫 Connect With Me
 
 <div align="center">
-  
+
 <a href="https://mohawed442.github.io/Portfolio/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="https://www.linkedin.com/in/mohamed-zakaria-96715724a/" target="_blank">
+<a href="https://www.linkedin.com/in/mohammed-zkaria" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://www.facebook.com/mody.fanta" target="_blank">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:moddm766@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
@@ -253,7 +335,7 @@ Create value through technology
 ---
 
 <div align="center">
-  
+
 ### 💭 Developer Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
@@ -262,7 +344,7 @@ Create value through technology
 
 ### ✨ Words to Live By
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=800&lines=%22Strive+not+to+be+a+success%2C+but+rather+to+be+of+value.%22;–+Albert+Einstein" alt="Quote"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=800&lines=%22Strive+not+to+be+a+success%2C+but+rather+to+be+of+value.%22;%E2%80%93+Albert+Einstein" alt="Quote"/>
 
 <br/>
 
@@ -273,7 +355,7 @@ Create value through technology
 ---
 
 <div align="center">
-  
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 <br/>
@@ -284,7 +366,6 @@ Create value through technology
 
 <br/>
 
-![Made with ❤️ by Mohamed Zakaria](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Mohamed%20Zakaria-blueviolet?style=for-the-badge)
+![Made with ❤️ by Mohammed Zkaria](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Mohammed%20Zkaria-blueviolet?style=for-the-badge)
 
 </div>
-
