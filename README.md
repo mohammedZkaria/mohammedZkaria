@@ -83,9 +83,8 @@ const mohammedZkaria = {
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" />
 
-<br/>
+<br/><br/>
 
-<!-- Socket.io — no skillicons icon available, using badge -->
 <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io"/>
 
 <br/><br/>
@@ -96,10 +95,9 @@ const mohammedZkaria = {
 
 <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
 
-<br/>
+<br/><br/>
 
-<!-- Apidog & Suger — no skillicons icons available, using badges -->
-<img src="https://img.shields.io/badge/Apidog-0067FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNEg5VjhoMnY4em00IDBoLTJWOGgydjh6Ii8+PC9zdmc+&logoColor=white" alt="Apidog"/>
+<img src="https://img.shields.io/badge/Apidog-0067FF?style=for-the-badge&logo=apidog&logoColor=white" alt="Apidog"/>
 <img src="https://img.shields.io/badge/Suger-6C3483?style=for-the-badge&logoColor=white" alt="Suger"/>
 
 </div>
@@ -182,12 +180,15 @@ Personal portfolio showcasing projects, skills, and experience as a Full-Stack D
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohawed442&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohawed442&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" height="180" alt="languages graph" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=mohawed442&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true" height="180" alt="stats graph" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohawed442&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" height="180" alt="languages graph" />
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mohawed442&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=mohawed442&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866&dates=FFFFFF" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -199,7 +200,7 @@ Personal portfolio showcasing projects, skills, and experience as a Full-Stack D
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohawed442&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mohawed442&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" alt="trophies"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
@@ -219,8 +220,6 @@ Personal portfolio showcasing projects, skills, and experience as a Full-Stack D
 ## 💼 What I Do
 
 <div align="center">
-
-<br/>
 
 | 🎯 Current Focus | 📚 Learning | 🤝 Collaboration |
 |:---:|:---:|:---:|
@@ -266,8 +265,6 @@ Personal portfolio showcasing projects, skills, and experience as a Full-Stack D
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
 <br/><br/>
-
-### ✨ Words to Live By
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=800&lines=%22Strive+not+to+be+a+success%2C+but+rather+to+be+of+value.%22;%E2%80%93+Albert+Einstein" alt="Quote"/>
 
