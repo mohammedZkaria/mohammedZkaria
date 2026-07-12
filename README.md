@@ -16,13 +16,13 @@
 
 <div align="center">
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohammedzkaria.github.io/Portfolio/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohammedZkaria.github.io/Portfolio/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-zkaria)
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mody.fanta)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammedzkaria)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammedZkaria)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moddm766@gmail.com)
 
-  <img src="https://komarev.com/ghpvc/?username=mohammedzkaria&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mohammedZkaria&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />
 
 </div>
 
