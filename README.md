@@ -121,7 +121,7 @@ A full-featured online store with real-time product management, secure shopping 
 - 🔒 JWT & Bcrypt authentication
 - 📦 Scalable Express.js backend
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/mohawed442)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/mohammedZkaria)
 
 </td>
 <td width="50%" valign="top">
@@ -135,7 +135,7 @@ A real-time chat service with private channels, live message delivery, and admin
 - 🔐 Private channels & admin controls
 - 📱 Responsive Angular UI
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/mohawed442)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/mohammedZkaria)
 
 </td>
 </tr>
@@ -151,7 +151,7 @@ A team productivity app for creating, assigning, and tracking tasks in real time
 - 🖱️ Drag-and-drop task boards
 - 📡 Real-time updates via Socket.io
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/mohawed442)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/mohammedZkaria)
 ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat)
 
 </td>
@@ -166,8 +166,8 @@ Personal portfolio showcasing projects, skills, and experience as a Full-Stack D
 - ⚡ Fast Angular SPA
 - 📬 Contact integration
 
-[![Live](https://img.shields.io/badge/Live-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://mohawed442.github.io/Portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/mohawed442)
+[![Live](https://img.shields.io/badge/Live-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://mohammedZkaria.github.io/Portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/mohammedZkaria)
 
 </td>
 </tr>
@@ -181,18 +181,18 @@ Personal portfolio showcasing projects, skills, and experience as a Full-Stack D
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohawed442&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true" height="180" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=mohammedZkaria&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true" height="180" alt="stats graph" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohawed442&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" height="180" alt="languages graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedZkaria&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" height="180" alt="languages graph" />
 
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mohawed442&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866&dates=FFFFFF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=mohammedZkaria&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866&dates=FFFFFF" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohawed442&custom_title=Mohammed%20Zkaria%27s%20Contribution%20Graph&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area_color=F85D7F&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedZkaria&custom_title=Mohammed%20Zkaria%27s%20Contribution%20Graph&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area_color=F85D7F&area=true&hide_border=true" width="100%"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
@@ -200,7 +200,7 @@ Personal portfolio showcasing projects, skills, and experience as a Full-Stack D
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohawed442&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mohammedZkaria&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" alt="trophies"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
@@ -209,9 +209,9 @@ Personal portfolio showcasing projects, skills, and experience as a Full-Stack D
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohawed442/mohawed442/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohawed442/mohawed442/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mohawed442/mohawed442/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammedZkaria/mohammedZkaria/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohammedZkaria/mohammedZkaria/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mohammedZkaria/mohammedZkaria/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -237,7 +237,7 @@ Personal portfolio showcasing projects, skills, and experience as a Full-Stack D
 
 <div align="center">
 
-<a href="https://mohawed442.github.io/Portfolio/" target="_blank">
+<a href="https://mohammedZkaria.github.io/Portfolio/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/mohammed-zkaria" target="_blank">
